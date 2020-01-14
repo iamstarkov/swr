@@ -9,7 +9,7 @@
     "next": "9.1.1",
     "react": "16.11.0",
     "react-dom": "16.11.0",
-    "swr": "0.1.15"
+    "swr": "0.1.15-beta.0"
   },
   "scripts": {
     "dev": "next",
