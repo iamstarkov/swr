@@ -19,7 +19,7 @@ export default function Home(props) {
   return (
     <div style={{ maxWidth: '800px', margin: '0 auto' }}>
       <Nav />
-      <h2>Demo</h2>
+      <h2>Demo works with 0.1.15</h2>
       <div>
         <label htmlFor="pokemon-select">Choose a pokemon:</label>
         <select name="pets" id="pet-select" defaultValue={selected} onChange={e => { setSelected(e.target.value); }}>
